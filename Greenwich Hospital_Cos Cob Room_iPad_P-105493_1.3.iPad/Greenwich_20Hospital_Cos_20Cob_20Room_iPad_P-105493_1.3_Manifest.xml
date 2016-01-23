@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<File Type='Manifest' Version='5.1.0' ObjectDisplayList='1'>
+<Project FileName='Greenwich_20Hospital_Cos_20Cob_20Room_iPad_P-105493_1.3.zip' Size='138747' Build='20150218155744'>
+<Sources>
+<Source FileName='Greenwich_20Hospital_Cos_20Cob_20Room_iPad_P-105493_1.3.xml' Size='556' Type='Application' Build='20150218155744' />
+<Source FileName='Greenwich_20Hospital_Cos_20Cob_20Room_iPad_P-105493_1.3_Resource.xml' Size='6870' Type='Resource' Build='20150218155744' />
+<Source FileName='[SYS] VOL.xml' Size='19847' Type='Page' Build='20150218155752' />
+<Source FileName='[SYS] READY.xml' Size='7425' Type='Page' Build='20150218155751' />
+<Source FileName='[SYS] EXIT.xml' Size='3412' Type='Page' Build='20150218155749' />
+<Source FileName='{PRES} no controls.xml' Size='2122' Type='Subpage' Build='20150218155749' />
+<Source FileName='{SYS} PROJ COOLING.xml' Size='1662' Type='Subpage' Build='20150218155748' />
+<Source FileName='{SYS} PROJ WARMING.xml' Size='1662' Type='Subpage' Build='20150218155748' />
+<Source FileName='{ATC} INCOMING CALL.xml' Size='2535' Type='Subpage' Build='20150218155748' />
+<Source FileName='[PRES].xml' Size='15957' Type='Page' Build='20150218155746' />
+<Source FileName='[VTC] NAV.xml' Size='27586' Type='Page' Build='20150218155745' />
+<Source FileName='[VTC] SEND.xml' Size='22728' Type='Page' Build='20150218155742' />
+<Source FileName='[VTC] DIAL.xml' Size='35736' Type='Page' Build='20150218155738' />
+<Source FileName='[VTC] CAM.xml' Size='30518' Type='Page' Build='20150218155735' />
+<Source FileName='[ATC].xml' Size='29693' Type='Page' Build='20150218155732' />
+<Source FileName='[LOGO].xml' Size='2522' Type='Page' Build='20150218155726' />
+</Sources>
+</Project>
+</File>
